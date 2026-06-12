@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New Feature
+=======
+new feature
+>>>>>>> 5a3c1e7df4739a21f2054e4a0b02806054a91681
